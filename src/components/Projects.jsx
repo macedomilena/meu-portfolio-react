@@ -6,15 +6,15 @@ const projectsData = [
     titulo: "Meu Portfolio",
     tecnologias: ["HTML", "CSS", "JavaScript"],
     imagem: imgProj, 
-    linkRepo: "#",
-    linkDeploy: "#"
+    linkRepo: "https://github.com/macedomilena/meu-portfolio",
+    linkDeploy: "https://macedomilena.github.io/meu-portfolio/"
   },
   {
     titulo: "Meu Portfolio - React",
     tecnologias: ["React", "CSS", "Vite"],
     imagem: imgProj, 
-    linkRepo: "#",
-    linkDeploy: "#"
+    linkRepo: "https://github.com/macedomilena/meu-portfolio-react",
+    linkDeploy: "https://meu-portfolio-react-umber.vercel.app/"
   },
   {
         titulo: "by Milena",
